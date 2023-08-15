@@ -70,7 +70,18 @@ The StockMaster project is developed and maintained by the following team member
 We appreciate the collaborative efforts of our team members in creating and improving StockMaster to meet your inventory management needs.
 
 ## Pictures:
-
+![Screen Shot 2023-08-15 at 10 00 45 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/f19eb2e8-fac2-4337-8308-0405d3f5a522)
+![Screen Shot 2023-08-15 at 10 00 46 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/ba071c27-7ff2-4ca1-a27d-58dce555b3cd)
+![Screen Shot 2023-08-15 at 10 00 59 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/023e88d8-b55f-41d9-a02d-da003fb8d6bb)
+![Screen Shot 2023-08-15 at 10 01 08 PM](https://
+![Screen Shot 2023-08-15 at 10 01 43 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/ca6dc820-da72-49f6-ba31-34f8b8b80f00)
+github.com/Hamada-Raed/Team_project/as
+![Screen Shot 2023-08-15 at 10 01 47 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/e0216742-0076-4ce7-a29b-
+![Screen Shot 2023-08-15 at 10 01 51 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/0664369c-c896-43e0-8d1f-99
+![Screen Shot 2023-08-15 at 10 01 53 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/8d5ede84-1c8b-4acb-b13a-22fbe1231011)
+8083c98c41)
+e7d5c4b99db2)
+sets/128790610/74148b92-9ae5-40c3-b792-43c7e5985748)
 
   
 
