@@ -68,6 +68,10 @@ The StockMaster project is developed and maintained by the following team member
 3. Kareem - Front-end Developer / UI/UX Designer 
 4. Yazan -Back-end / Front-end Developer
 We appreciate the collaborative efforts of our team members in creating and improving StockMaster to meet your inventory management needs.
+
+## Pictures:
+
+
   
 
 
