@@ -70,19 +70,16 @@ The StockMaster project is developed and maintained by the following team member
 We appreciate the collaborative efforts of our team members in creating and improving StockMaster to meet your inventory management needs.
 
 ## Pictures:
-![Screen Shot 2023-08-15 at 10 00 46 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/ba071c27-7ff2-4ca1-a27d-58dce555b3cd)
-![Screen Shot 2023-08-15 at 10 00 59 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/023e88d8-b55f-41d9-a02d-da003fb8d6bb)
-![Screen Shot 2023-08-15 at 10 01 08 PM](https://
-![Screen Shot 2023-08-15 at 10 01 43 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/ca6dc820-da72-49f6-ba31-34f8b8b80f00)
-github.com/Hamada-Raed/Team_project/as
-![Screen Shot 2023-08-15 at 10 01 47 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/e0216742-0076-4ce7-a29b-
-![Screen Shot 2023-08-15 at 10 01 51 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/0664369c-c896-43e0-8d1f-99
-![Screen Shot 2023-08-15 at 10 01 53 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/8d5ede84-1c8b-4acb-b13a-22fbe1231011)
-8083c98c41)
-e7d5c4b99db2)
-sets/128790610/74148b92-9ae5-40c3-b792-43c7e5985748)
+![Screen Shot 2023-08-15 at 10 00 46 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/aa9bae3d-880b-45a1-8211-881d336a768c)
 
-  
+![Screen Shot 2023-08-15 at 10 00 59 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/9d3a4b9d-6719-4392-9fd9-0b8a3a2d9db3)
 
+![Screen Shot 2023-08-15 at 10 01 08 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/2235d17d-8ed5-44a6-86af-c5373908864b)
 
+![Screen Shot 2023-08-15 at 10 01 43 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/f231a3b5-54e3-4e37-8559-ba3327738edd)
 
+![Screen Shot 2023-08-15 at 10 01 47 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/646047cb-ba83-4c1e-aded-32c593535577)
+
+![Screen Shot 2023-08-15 at 10 01 51 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/95e0dd61-998c-4f00-8ef9-13a24f03026e)
+
+![Screen Shot 2023-08-15 at 10 01 53 PM](https://github.com/Hamada-Raed/Team_project/assets/128790610/3e2d24ef-aa48-4b31-8234-58bbae13c542)
